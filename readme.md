@@ -4,8 +4,6 @@
 
 In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals.
 
-<br><br>
-
 ### Instructions
 
 1. Write a query to display for each store its store ID, city, and country.
